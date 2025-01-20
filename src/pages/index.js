@@ -1,0 +1,5 @@
+export { default as About } from './About'
+export { default as HomeLayout } from './HomeLayout'
+export { default as ErrorElement } from './ErrorElement'
+export { default as Login } from './Login'
+export { default as Register } from './Register'
